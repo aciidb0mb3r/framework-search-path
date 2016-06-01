@@ -1,0 +1,5 @@
+@import XCTest;
+
+int main() {
+
+}
